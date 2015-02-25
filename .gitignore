@@ -1,0 +1,6 @@
+#no large sequencing files: SAM, BAM, fasta, fastq
+*.sam
+*.bam
+*.fasta
+*.fastq
+
